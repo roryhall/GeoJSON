@@ -1,6 +1,9 @@
 # GeoJSON
 
-Note ## "https://gisservices.information.qld.gov.au/arcgis/rest/services for outside the network
+Note ## "https://gisservices.information.qld.gov.au/arcgis/rest/services/PlanningCadastre 
+Note ## "https://gisservices/arcgis/rest/services/Biota
+for outside the network
+
 Accessing data from a spatial web server using JSON.
 This script can be used to intersect and return features from a spatial web service layer.
 For example get all the features from a vegetation layer which intersects a parcel of land.
