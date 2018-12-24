@@ -1,6 +1,8 @@
 # Test a REST point ARCGIS Server (Web Services)
 # Query GET return a JSON object and create a feature class
 
+## "https://gisservices.information.qld.gov.au/arcgis/rest/services for outside the network
+
 import arcpy
 import urllib
 import json
